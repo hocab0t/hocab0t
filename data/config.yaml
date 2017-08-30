@@ -1,0 +1,15 @@
+---
+# Discord API client ID
+client_id: 352515559650361345
+
+# Discord API client token
+token: MzUyNTE1NTU5NjUwMzYxMzQ1.DIiTCg.uph9qVFKIUfBTmOdnyCl5uN26C4
+
+# Command prefix
+prefix: '>'
+
+# ID of bot owner
+owner: 197465228794003457
+
+# game the bot is playing
+game: Patateslerle
