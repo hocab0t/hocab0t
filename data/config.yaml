@@ -1,12 +1,12 @@
 ---
 # Discord API client ID
-client_id: 
+client_id: 352515559650361345
 
 # Discord API client token
-token: 
+token: MzUyNTE1NTU5NjUwMzYxMzQ1.DIiTCg.uph9qVFKIUfBTmOdnyCl5uN26C4
 
 # Command prefix
-prefix: 
+prefix: '>'
 
 # ID of bot owner
 owner: 
